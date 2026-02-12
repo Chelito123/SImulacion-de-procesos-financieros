@@ -42,16 +42,7 @@ Simulación de trayectorias de precios utilizando el modelo de Movimiento Browni
     * `matplotlib`: Visualización de datos y gráficos de simulación.
     * `scipy`: Integración numérica avanzada.
 
----
 
-## 📊 Gestión Estratégica (Balanced Scorecard)
-Ejemplo de implementación de KPIs integrados en las 4 perspectivas del BSC:
-1. **Financiera:** Rendimiento sobre el capital (ROE).
-2. **Clientes:** Cuota de mercado y satisfacción.
-3. **Procesos:** Eficiencia operativa y tiempos de ciclo.
-4. **Aprendizaje:** Capacitación técnica y retención de talento.
-
-[Image of Balanced Scorecard strategy map showing cause and effect links]
 
 ---
 
